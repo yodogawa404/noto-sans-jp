@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "type": "module",
+  "name": "generator",
+  "scripts": {
+    "format": "prettier . --write"
+  },
+  "dependencies": {
+    "@yodogawa404/get-unicode-chunk-range_jp": "^0.3.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  }
+}
