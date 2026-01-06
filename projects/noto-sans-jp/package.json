@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@yodogawa404/noto-sans-jp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "files": [
     "fonts",
     "LICENSE",
